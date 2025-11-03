@@ -1,17 +1,17 @@
-//import java.util.Scanner;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
 
         String text = System.getenv("S_TEXT");
         System.out.println("Value in the env file: "+ text);
-//        Scanner scanner = new Scanner(System.in);
-//
-//        int a = scanner.nextInt();
-//        int b = scanner.nextInt();
-//
-//
-//
-//        System.out.println(a+b);
+        Scanner scanner = new Scanner(System.in);
+
+        int a = scanner.nextInt();
+        int b = scanner.nextInt();
+
+
+
+        System.out.println(a+b);
     }
 }
