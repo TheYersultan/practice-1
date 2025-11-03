@@ -13,5 +13,9 @@ public class Main {
 
 
         System.out.println(a+b);
+
+
+        System.out.println("STEP 1");
+
     }
 }
