@@ -17,5 +17,8 @@ public class Main {
 
         System.out.println("STEP 1");
 
+        System.out.println("STEP 2");
+
+
     }
 }
